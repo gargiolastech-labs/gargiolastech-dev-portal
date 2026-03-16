@@ -1,37 +1,7 @@
 {
   "gargiolastech": {
-    "generated_at": "2026-03-15T18:16:01.480Z",
+    "generated_at": "2026-03-16T00:52:34.362Z",
     "repos": [
-      {
-        "name": "gargiolastech-dev-portal",
-        "full_name": "gargiolastech/gargiolastech-dev-portal",
-        "html_url": "https://github.com/gargiolastech/gargiolastech-dev-portal",
-        "description": "Public developer portal for GargiolasTech featuring automated GitHub repo catalog, architecture vision, personal presentation and Azure Static Web Apps CI/CD integration.",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "open_issues_count": 0,
-        "language": "JavaScript",
-        "topics": [
-          "automation",
-          "azure",
-          "ci-cd",
-          "clean-architecture",
-          "ddd",
-          "developer-portal",
-          "devops",
-          "dotnet",
-          "github-actions",
-          "modular-monolith",
-          "portfolio",
-          "static-web-app"
-        ],
-        "updated_at": "2026-03-15T12:19:38Z",
-        "pushed_at": "2026-03-15T12:19:35Z",
-        "created_at": "2026-02-22T12:44:07Z",
-        "archived": false,
-        "visibility": "public",
-        "homepage": null
-      },
       {
         "name": "backstage-catalog",
         "full_name": "gargiolastech/backstage-catalog",
