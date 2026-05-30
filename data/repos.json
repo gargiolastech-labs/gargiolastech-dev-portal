@@ -1,6 +1,6 @@
 {
   "gargiolastech": {
-    "generated_at": "2026-05-30T13:56:48.895Z",
+    "generated_at": "2026-05-30T19:37:06.365Z",
     "repos": [
       {
         "name": "backstage-catalog",
@@ -9,11 +9,11 @@
         "description": null,
         "stargazers_count": 0,
         "forks_count": 0,
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "language": "C#",
         "topics": [],
         "updated_at": "2026-03-08T20:25:58Z",
-        "pushed_at": "2026-03-08T20:25:55Z",
+        "pushed_at": "2026-05-30T15:37:54Z",
         "created_at": "2026-03-01T09:49:47Z",
         "archived": false,
         "visibility": "public",
@@ -26,11 +26,11 @@
         "description": null,
         "stargazers_count": 0,
         "forks_count": 0,
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "language": null,
         "topics": [],
         "updated_at": "2026-01-04T18:44:35Z",
-        "pushed_at": "2026-01-04T18:44:31Z",
+        "pushed_at": "2026-05-30T15:36:36Z",
         "created_at": "2025-10-17T21:09:33Z",
         "archived": false,
         "visibility": "public",
