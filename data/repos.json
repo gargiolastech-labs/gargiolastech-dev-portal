@@ -1,7 +1,28 @@
 {
   "gargiolastech": {
-    "generated_at": "2026-10-24T04:16:33.021Z",
+    "generated_at": "2026-10-24T10:43:35.955Z",
     "repos": [
+      {
+        "name": "gtdi-schema",
+        "full_name": "gargiolastech/gtdi-schema",
+        "html_url": "https://github.com/gargiolastech/gtdi-schema",
+        "description": "JSON Schema pubblico del file di configurazione .gtdilifetime.json del tool gtdi (Gargiolastech.DiLifetime.Tool), una cartella per versione del formato.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "language": null,
+        "topics": [
+          "dependency-injection",
+          "dotnet-tool",
+          "json-schema"
+        ],
+        "updated_at": "2026-10-24T09:40:38Z",
+        "pushed_at": "2026-10-24T09:40:35Z",
+        "created_at": "2026-10-24T09:39:17Z",
+        "archived": false,
+        "visibility": "public",
+        "homepage": null
+      },
       {
         "name": "backstage-catalog",
         "full_name": "gargiolastech/backstage-catalog",
